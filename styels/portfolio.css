@@ -1,0 +1,41 @@
+{
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    /* header and navigastion styles */
+    .text-primary {
+        color: burlywood;
+    }
+    .btn-primary{
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 20px;
+        border: 0;
+        padding: 18px 35px;
+        height: 64px;
+        border-radius: 5px;
+        background: burlywood;
+    }
+    nav {
+        display: flex;
+        justify-content: space-between;
+        margin: 50px 200px;
+    }
+
+    .nav-title {
+        font-weight: 800;
+        font-size: 45px;
+    }
+
+    nav ul {
+        display: flex;
+        align-items: center;
+    }
+
+    nav li {
+        list-style: none;
+        margin-left: 50px;
+    }
+
+   
